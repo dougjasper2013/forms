@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <h2>Contact Us</h2>
       <p>
-        If you enter your personal details and we will get back to you as quickly as we can.
+        If you enter your very personal details and we will get back to you as quickly as we can.
       </p>
       <ContactForm />
     </main>
